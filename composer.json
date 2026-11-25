@@ -1,11 +1,14 @@
 {
     "name": "infrangible/m2-bundle-option-wrapper",
-    "description": "Infrangible Magento 2 Bundle Option Wrapper",
+    "description": "Groundwork for other Infrangible modules: puts each option on bundle product pages into its own container, so options can be styled and extended individually.",
     "type": "magento2-module",
     "version": "2.0.0",
     "license": "MIT",
     "keywords": [
-        "Magento"
+        "Magento",
+        "Magento 2",
+        "Adobe Commerce",
+        "Bundle products"
     ],
     "homepage": "https://www.infrangible.dev/modules/bundle-option-wrapper",
     "authors": [
